@@ -1,0 +1,5 @@
+E:\C# .NET Course\MsTest-Automated-Testing\mstest-automated-testing\mstest-automated-testing\obj\Debug\net6.0\mstest-automated-testing.csproj.AssemblyReference.cache
+E:\C# .NET Course\MsTest-Automated-Testing\mstest-automated-testing\mstest-automated-testing\obj\Debug\net6.0\mstest-automated-testing.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# .NET Course\MsTest-Automated-Testing\mstest-automated-testing\mstest-automated-testing\obj\Debug\net6.0\mstest-automated-testing.AssemblyInfoInputs.cache
+E:\C# .NET Course\MsTest-Automated-Testing\mstest-automated-testing\mstest-automated-testing\obj\Debug\net6.0\mstest-automated-testing.AssemblyInfo.cs
+E:\C# .NET Course\MsTest-Automated-Testing\mstest-automated-testing\mstest-automated-testing\obj\Debug\net6.0\mstest-automated-testing.csproj.CoreCompileInputs.cache
